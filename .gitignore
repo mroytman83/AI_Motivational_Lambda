@@ -1,0 +1,6 @@
+.env
+__pycache__
+venv
+client_goals
+credentials.json
+cert.pem
